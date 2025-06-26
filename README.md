@@ -20,4 +20,4 @@ This repository contains the results of a basic vulnerability scan performed as 
 5. Export the report and analyze critical vulnerabilities.
 
 ## 📁 Files
-- `vulnerability_report.`: Documented findings and fixes
+- `vulnerability_report.docx`: Documented findings and fixes
